@@ -30,7 +30,7 @@ software, and a website. (~1 min)
 
 <!-- _class: deck-process -->
 
-# This deck was built the same way
+# This deck was built with...
 
 <div class="human-ai">
 <div>
@@ -128,22 +128,6 @@ underlying geometry of the system. (~2.5 min)
 
 ---
 
-<!-- _class: photo -->
-
-# Meet GridSmith
-
-
-<div class="placeholder hero contain">
-  <img src="assets/hero.png">
-</div>
-
-<!--
-Show the destination before the journey. Point out the base grid, tiles,
-walls, props, and trays. Drop a tile into the grid if you brought one. (~1 min)
--->
-
----
-
 <!-- _class: statement -->
 
 # What if terrain could use less—and do more?
@@ -192,6 +176,23 @@ GridSmith was deliberately an experiment in using AI more robustly:
 
 Position AI as a persistent collaborator, not an answer machine. It accelerated
 exploration, but you still chose the direction and owned every result. (~1.5 min)
+-->
+
+
+---
+
+<!-- _class: photo -->
+
+# Meet GridSmith
+
+
+<div class="placeholder hero contain">
+  <img src="assets/hero.png">
+</div>
+
+<!--
+Show the destination before the journey. Point out the base grid, tiles,
+walls, props, and trays. Drop a tile into the grid if you brought one. (~1 min)
 -->
 
 ---
