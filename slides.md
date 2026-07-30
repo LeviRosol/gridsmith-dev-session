@@ -63,7 +63,7 @@ the friction between your intent and a working artifact. (~1 min)
 
 <!-- _class: sample-slide -->
 
-# Before GridSmith, I printed hundreds of tiles
+# Years ago... I printed hundreds of tiles
 
 <p class="sample-lead">I knew these systems as a user long before I tried to become a designer.</p>
 
@@ -165,7 +165,7 @@ physical system of your own? (~1 min)
 
 # I wanted to test AI on something real
 
-## Not a toy prompt—a physical system with code, constraints, failures, and consequences.
+## Not another "build me a..."  prompt—a physical system with code, constraints, failures, and consequences.
 
 <!--
 GridSmith was deliberately an experiment in using AI more robustly:
