@@ -20,3 +20,5 @@ used for the layouts.
 
 Choose **Marp: Export Slide Deck** from the Command Palette. HTML is ideal for
 presenting; PDF makes a dependable backup.
+
+[This presentation](https://levirosol.github.io/gridsmith-dev-session/)
