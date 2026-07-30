@@ -698,11 +698,17 @@ iteration of the user-group talk. (~3–5 min)
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![w:150](assets/icon.png)
+<div class="thank-you-copy">
+<img src="assets/icon.png" alt="GridSmith shield">
+<h1>Thank you</h1>
+<h2>gridsmith.io</h2>
+</div>
 
-# Thank you
-
-## gridsmith.io
+<div class="thank-you-repo">
+<img src="assets/github-repo-qr.png" alt="QR code for the GridSmith presentation repository">
+<strong>Get the deck</strong>
+<span>github.com/LeviRosol/<br>gridsmith-dev-session</span>
+</div>
 
 <!--
 End here after the feedback discussion.
