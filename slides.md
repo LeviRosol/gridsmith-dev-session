@@ -94,7 +94,7 @@ The samples make the problem tangible before you introduce your answer. (~2 min)
 
 <div class="frictions">
 <div><strong>Too much plastic</strong><span>Excessive thickness became filament locked inside every tile.</span></div>
-<div><strong>Too much waiting</strong><span>Every unnecessary layer added print time—then multiplied across a set.</span></div>
+<div><strong>Too much waiting</strong><span>Every unnecessary layer added print time - then multiplied across a set.</span></div>
 <div><strong>Too little floor</strong><span>Walls consumed half a tile, shrinking the playable space you just printed.</span></div>
 <div><strong>Too few layouts</strong><span>The system struggled with narrow hallways and other useful configurations.</span></div>
 </div>
@@ -130,7 +130,7 @@ underlying geometry of the system. (~2.5 min)
 
 <!-- _class: statement -->
 
-# What if terrain could use less—and do more?
+# What if terrain could use less - and do more?
 
 ## Less filament. Less waiting. More usable floor. More ways to build.
 
@@ -165,7 +165,7 @@ physical system of your own? (~1 min)
 
 # I wanted to test AI on something real
 
-## Not another "build me a..."  prompt—a physical system with code, constraints, failures, and consequences.
+## Not another "build me a..."  prompt - a physical system with code, constraints, failures, and consequences.
 
 <!--
 GridSmith was deliberately an experiment in using AI more robustly:
@@ -328,7 +328,7 @@ assumption it disproved and the change it caused. (~1.5 min)
 <div><span>0.3 mm</span><p>Too loose</p></div>
 </div>
 
-<p class="caption">Placeholder values—replace with a real tolerance experiment.</p>
+<p class="caption">Placeholder values - replace with a real tolerance experiment.</p>
 
 <!-- OPTIONAL IMAGE: Replace the comparison above with:
 ![w:1050](assets/tolerance-test.jpg)
@@ -427,13 +427,13 @@ explain that was obvious when holding the pieces? (~1 min)
 
 ---
 
-# I wanted tools—not just pages
+# I wanted tools - not just pages
 
 <div class="feature-pair">
 <div>
 <div class="feature-frame"><img src="assets/15.png" alt="GridSmith Tile Builder"></div>
 <strong>Tile Builder</strong>
-<span>Design a tile, preview the geometry, and export the STL—all in the browser.</span>
+<span>Design a tile, preview the geometry, and export the STL - all in the browser.</span>
 </div>
 <div>
 <div class="feature-frame"><img src="assets/16.png" alt="GridSmith Grid Builder"></div>
@@ -460,7 +460,7 @@ Grid Builder:
   the browser.
 
 The larger idea: the website began reflecting the same GridSmith principle as
-the physical product—remove friction between an idea and play. (~2 min)
+the physical product - remove friction between an idea and play. (~2 min)
 -->
 
 ---
@@ -471,7 +471,7 @@ the physical product—remove friction between an idea and play. (~2 min)
 <img src="assets/17.png" alt="GridSmith shopping experience">
 </div>
 
-<p class="feature-caption"><strong>Discover.</strong> Choose. Own. Download—or order the physical set.</p>
+<p class="feature-caption"><strong>Discover.</strong> Choose. Own. Download - or order the physical set.</p>
 
 <!--
 Explain the shopping experience you wanted:
@@ -670,7 +670,7 @@ Invite questions. (~1 min)
 </div>
 <div>
 <span>02</span>
-<strong>What is missing—or what could I elaborate on?</strong>
+<strong>What is missing - or what could I elaborate on?</strong>
 </div>
 </div>
 
@@ -678,7 +678,7 @@ Invite questions. (~1 min)
 Open the floor for candid feedback rather than general Q&A.
 
 First question:
-"Do you think this is strong enough—and useful enough—for the AI User Group?"
+"Do you think this is strong enough - and useful enough - for the AI User Group?"
 
 Second question:
 "What felt missing, rushed, or worth going deeper on?"
