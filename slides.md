@@ -60,6 +60,24 @@ the friction between your intent and a working artifact. (~1 min)
 -->
 ---
 
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/shrek.gif"></figure>
+
+<!--
+
+This talk has a number of layers of nerd.
+
+* D&D
+* 3D printing
+* Product engineering
+* Software engineering
+* AI
+
+-->
+
+---
+
 # First, I want to know more about you!
 
 ---
