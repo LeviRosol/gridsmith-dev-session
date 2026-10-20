@@ -17,7 +17,7 @@ footer: '![w:28 h:28 GridSmith icon](assets/icon.png) GridSmith · Building a Ph
 
 ## Building a physical product in the age of AI
 
-**A lunch & learn about ideas, iteration, and making real things**
+**A conversation about ideas, iterations, and making real things**
 
 <!--
 Open with the finished product in your hands.
@@ -61,15 +61,83 @@ the friction between your intent and a working artifact. (~1 min)
 
 ---
 
+<!-- _class: about-builder -->
+
+# I have always been a builder
+
+<p class="about-intro">Most of you know me as the CEO of WWC and a software nerd, however...</p>
+
+<div class="builder-collage">
+<figure class="builder-wide"><img src="assets/builder-house.jpg"></figure>
+<figure class="builder-red-truck"><img src="assets/builder-red-truck.jpg"></figure>
+<figure><img src="assets/builder-50-chevy.jpg"></figure>
+<figure><img src="assets/builder-garden.jpg"></figure>
+<figure><img src="assets/builder-greenhouse.jpg"></figure>
+<figure><img src="assets/builder-wall.jpg"></figure>
+<figure class="builder-green-bean"><img src="assets/builder-green-bean-night.png"></figure>
+</div>
+
+<!--
+This audience already knows your professional identity, so keep that part brief.
+
+Share a couple of quick, specific examples from outside software:
+- Working on trucks and learning by taking things apart
+- Remodeling houses and solving practical problems as they appeared
+- Building computers because understanding the parts was part of the fun
+- Growing gardens and improving the setup from one season to the next
+- Green Bean, the latest truck project
+
+The common thread is the urge to make, test, adjust, and try again. GridSmith
+did not come from nowhere. It gave that lifelong habit a new material and a new
+set of tools. (~1.5 min)
+-->
+
+---
+
+<!-- _class: dnd-background -->
+
+# D&D gave me another place to build
+
+<div class="dnd-story">
+<div class="dnd-copy">
+<p><strong>Since 2017</strong><span>I have been playing Dungeons & Dragons.</span></p>
+<p><strong>At the table</strong><span>I love homebrewing content and shaping the world around the players.</span></p>
+<p><strong>Seven years</strong><span>That is how long my last campaign ran.</span></p>
+<p><strong>Beyond the table</strong><span>I built GMBinder.com, which serves tens of thousands of people each month.</span></p>
+</div>
+<figure class="dnd-photo"><img src="assets/dnd-table.jpg"></figure>
+</div>
+
+<!--
+This is the other half of the GridSmith origin story.
+
+I started playing D&D in 2017 and quickly found the part of the hobby that fit
+me best: making things for the game. I homebrew content, build worlds, and enjoy
+giving players something that feels tailored to their story.
+
+My last campaign ran for seven years, so I had a lot of time at the table to
+notice what helped the game flow and what got in the way.
+
+That instinct to build also led to GMBinder.com. It gives people a way to create
+and share polished homebrew documents, and it now serves tens of thousands of
+people every month.
+
+GridSmith grew from both sides of my background: I like building, and I care
+deeply about the experience around a D&D table. (~2 min)
+-->
+
+---
+
 <!-- _class: sample-slide -->
 
 # Years ago... I printed hundreds of tiles
 
 <p class="sample-lead">I knew these systems as a user long before I tried to become a designer.</p>
 
-<div class="sample-cue">
-<strong>Pass the samples around</strong>
-<span>Feel the thickness. Notice where the walls sit. Look at how the pieces define the layout.</span>
+<div class="old-tiles-gallery">
+<figure class="old-tiles-wide"><img src="assets/old-tiles-tavern.jpg"></figure>
+<figure><img src="assets/old-tiles-dungeon.jpg"></figure>
+<figure><img src="assets/old-tiles-room.jpg"></figure>
 </div>
 
 <!--
@@ -90,25 +158,99 @@ The samples make the problem tangible before you introduce your answer. (~2 min)
 
 ---
 
-# The geometry made you pay three times
+<!-- _class: gridfinity-inspiration -->
 
-<div class="frictions">
-<div><strong>Too much plastic</strong><span>Excessive thickness became filament locked inside every tile.</span></div>
-<div><strong>Too much waiting</strong><span>Every unnecessary layer added print time - then multiplied across a set.</span></div>
-<div><strong>Too little floor</strong><span>Walls consumed half a tile, shrinking the playable space you just printed.</span></div>
-<div><strong>Too few layouts</strong><span>The system struggled with narrow hallways and other useful configurations.</span></div>
+# One day I was printing Gridfinity grids for my silverware drawer...
+
+<p class="gridfinity-lead">What if the grid did the organizing, and the terrain simply dropped into it?</p>
+
+<div class="gridfinity-sequence">
+<figure><span>01</span><img src="assets/gridfinity-evolution-01.jpg"></figure>
+<figure><span>02</span><img src="assets/gridfinity-evolution-02.jpg"></figure>
+<figure><span>03</span><img src="assets/gridfinity-evolution-03.jpg"></figure>
+<figure><span>04</span><img src="assets/gridfinity-evolution-04.jpg"></figure>
+<figure><span>05</span><img src="assets/gridfinity-evolution-05.jpg"></figure>
+<figure><span>06</span><img src="assets/gridfinity-evolution-06.jpg"></figure>
 </div>
 
-<p class="friction-summary">Plastic. Time. Playable space. Flexibility.</p>
+<!--
+Gridfinity provided the conceptual spark. Its organizing idea is simple: a
+standard grid creates structure, while interchangeable pieces drop into it.
+
+You wondered whether the same separation could work for terrain. Instead of
+asking every floor tile to carry its own structure and connections, could a
+thin grid underneath do that job?
+
+Walk through these images in order. You were not designing finished terrain
+yet. You were testing the architecture by building frames around tiles you
+already owned and had printed hundreds of times.
+
+Each version answered a physical question:
+- Does the grid hold the tile?
+- How much frame is actually necessary?
+- Where does the fit become too loose or too tight?
+- Can old content become modular without reprinting everything?
+
+The progression matters more than any individual frame. This was the moment
+the idea shifted from "make a better tile" to "build a system underneath the
+tiles." (~2 min)
+-->
+
+---
+
+<!-- _class: gridfinity-inspiration -->
+
+# Success!!
+
+<div class="gridfinity-sequence">
+<figure><span>01</span><img src="assets/old_1.jpg"></figure>
+<figure><span>02</span><img src="assets/old_2.jpg"></figure>
+<figure><span>03</span><img src="assets/old_3.jpg"></figure>
+<figure><span>04</span><img src="assets/old_4.jpg"></figure>
+<figure><span>05</span><img src="assets/old_5.jpg"></figure>
+</div>
+
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/but_wait.jpeg"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/3_months.jpg"></figure>
+
+---
+
+# I started to question what I had created.
+
+## I mean... there were issues with the 100s of tiles I had printed
+
+## And I wanted new tiles.
+
+---
+
+
+# The tiles made you pay four times
+
+<div class="frictions">
+<div><strong>Too much plastic and waiting</strong><span>Excessive thickness consumed filament and added print time across every tile.</span></div>
+<div><strong>Too little floor</strong><span>Walls consumed half a tile, shrinking the playable space you just printed.</span></div>
+<div><strong>Too few layouts</strong><span>The system struggled with narrow hallways and other useful configurations.</span></div>
+<div><strong>Too complicated</strong><span>Connecting tiles required magnets, glue, or brittle clips.</span></div>
+</div>
+
+<p class="friction-summary">Material and time. Playable space. Flexibility. Assembly.</p>
 
 <!--
 Use the samples as evidence while you walk through the four constraints.
 
-Excessive thickness:
+Excessive thickness and print time:
 - Material was being spent where it did not improve the play experience.
 - A small amount per tile becomes substantial across hundreds of tiles.
-
-Print time:
 - Thickness means layers, and layers mean time.
 - Building a usable room or dungeon required committing the printer for a long
   time before play could begin.
@@ -122,8 +264,13 @@ Layout flexibility:
 - Wall and floor geometry are coupled.
 - Narrow hallways and other common layouts become awkward or impossible.
 
-The insight: these were not four unrelated annoyances. They all came from the
-underlying geometry of the system. (~2.5 min)
+Assembly complexity:
+- Magnets added parts, cost, glue, and installation time.
+- Printed clips could be fiddly and brittle.
+- Building the terrain should not require another construction project first.
+
+The insight: these were not unrelated annoyances. They came from the structure
+and assembly model of the system. (~2.5 min)
 -->
 
 ---
@@ -146,7 +293,7 @@ thin parts, separate walls, print time, and hallway layouts. (~1 min)
 
 # So I asked the dangerous question
 
-<div class="big-quote">How hard would it be<br>to create my own?</div>
+<div class="big-quote">"How hard would it be<br>to create my own?"</div>
 
 <p class="muted">A reasonable question with a wildly unreasonable answer.</p>
 
@@ -163,9 +310,13 @@ physical system of your own? (~1 min)
 
 <!-- _class: statement dark -->
 
-# I wanted to test AI on something real
+# I wanted to use AI on something real
 
-## Not another "build me a..."  prompt - a physical system with code, constraints, failures, and consequences.
+## Not another "build me a..."  prompt
+
+# I wanted a physical system
+
+## with code, constraints, failures, and consequences.
 
 <!--
 GridSmith was deliberately an experiment in using AI more robustly:
@@ -178,21 +329,73 @@ Position AI as a persistent collaborator, not an answer machine. It accelerated
 exploration, but you still chose the direction and owned every result. (~1.5 min)
 -->
 
-
 ---
 
-<!-- _class: photo -->
+<!-- _class: initial-requirements -->
 
-# Meet GridSmith
+# Before CAD, I had rules
 
+<p class="requirements-lead">If I was going to build my own system, it had to...</p>
 
-<div class="placeholder hero contain">
-  <img src="assets/hero.png">
+<div class="requirements-list">
+<div><span>01</span><p><strong>Use less material</strong>Every millimeter needed to earn its place.</p></div>
+<div><span>02</span><p><strong>Print faster</strong>A useful room could not take forever to produce.</p></div>
+<div><span>03</span><p><strong>Preserve every square</strong>Walls could not consume half the playable floor.</p></div>
+<div><span>04</span><p><strong>Support flexible layouts</strong>Hallways, small rooms, and odd shapes had to work.</p></div>
+<div><span>05</span><p><strong>Drop into place</strong>No magnets, clips, or fiddly connectors.</p></div>
+<div><span>06</span><p><strong>Print reliably</strong>Simple, repeatable parts that worked on an FDM printer.</p></div>
 </div>
 
 <!--
-Show the destination before the journey. Point out the base grid, tiles,
-walls, props, and trays. Drop a tile into the grid if you brought one. (~1 min)
+This is a reconstructed first pass at the requirements based on the problems
+you had already identified. Adjust the wording to match the list you actually
+carried into the first design sessions.
+
+The important shift was turning frustration into constraints. You were no
+longer asking AI to invent some terrain. You had a definition of better:
+- less plastic and less print time
+- the whole grid remained playable
+- layouts included hallways and smaller spaces
+- assembly stayed simple, without separate hardware
+- the parts could be printed repeatedly and predictably
+
+Those constraints gave the AI something useful to reason against, and they
+gave every physical prototype a pass-or-fail test. (~2 min)
+-->
+
+---
+
+<!-- _class: cad-first-step -->
+
+# The first step was reverse engineering
+
+<p class="cad-origin">I gave ChatGPT an STL from a tile I had already printed hundreds of times.</p>
+
+<div class="cad-origin-flow">
+<div><span>01</span><strong>Start with the STL</strong><small>A familiar object, but no editable design behind it.</small></div>
+<b>→</b>
+<div><span>02</span><strong>Ask a few questions</strong><small>ChatGPT helped unpack the geometry and pointed me toward OpenSCAD.</small></div>
+<b>→</b>
+<div><span>03</span><strong>Render something new</strong><small>Within a couple of prompts, I had my first CAD prototype.</small></div>
+</div>
+
+<p class="lost-prototype"><strong>No screenshot survived.</strong> I did not know yet that this was the beginning of the story.</p>
+
+<!--
+The first action was not to design GridSmith from scratch. It was to start with
+something familiar: an STL from an older tile you had printed hundreds of times.
+
+You asked ChatGPT to help reverse engineer it. Within a couple of prompts, the
+conversation pointed you toward OpenSCAD and produced enough code to render a
+first CAD prototype.
+
+That surprised you. CAD had always felt like a specialized skill with a steep
+entry cost. Suddenly, you had crossed the first barrier without a class, a
+tutorial series, or months spent learning a traditional modeling interface.
+
+Be honest about the missing artifact: there is no screenshot because this did
+not feel historically important in the moment. It was simply the first thing
+that worked. (~2 min)
 -->
 
 ---
@@ -328,8 +531,6 @@ assumption it disproved and the change it caused. (~1.5 min)
 <div><span>0.3 mm</span><p>Too loose</p></div>
 </div>
 
-<p class="caption">Placeholder values - replace with a real tolerance experiment.</p>
-
 <!-- OPTIONAL IMAGE: Replace the comparison above with:
 ![w:1050](assets/tolerance-test.jpg)
 -->
@@ -406,6 +607,22 @@ validation, repeatability, and respect for production constraints. (~1 min)
 <!--
 Tell the naming story if there is one. This is the pivot from experiment to
 product: branding, packaging, instructions, and someone else using it. (~1 min)
+-->
+
+---
+
+<!-- _class: photo -->
+
+# Meet GridSmith
+
+
+<div class="placeholder hero contain">
+  <img src="assets/hero.png">
+</div>
+
+<!--
+Show the destination before the journey. Point out the base grid, tiles,
+walls, props, and trays. Drop a tile into the grid if you brought one. (~1 min)
 -->
 
 ---
@@ -560,7 +777,7 @@ browser is performing real CAD work locally. (~2.5–3 min)
 
 # Vibe coding the website
 
-## Let’s open Cursor.
+## Let’s open Cursor. - No, let's not.
 
 <!--
 Leave the deck and open the GridSmith project in Cursor.
@@ -610,9 +827,9 @@ your experience. (~2 min)
 
 <!-- _class: statement dark -->
 
-# One developer became a small product team
+# One person became a small product team
 
-## CAD modeler · manufacturing engineer · web developer · writer · photographer · marketer
+## CAD modeler · Manufacturing Engineer · Web Developer · Writer · Photographer · Marketer
 
 <!--
 The point isn't mastery of every discipline. AI lowered the activation energy
@@ -644,7 +861,7 @@ sentence and save a demo for Q&A. (~1 min)
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-# AI lowered the barrier.
+# In the end... AI lowered the barrier.
 
 ## Iteration built the product.
 
@@ -659,18 +876,30 @@ Invite questions. (~1 min)
 
 ---
 
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/5_months.jpg"></figure>
+
+---
+
+# Gridsmith is currently living the fate of many of my hobbies...
+
+## I do have a desire to pick it back up, but there are only so many days in the week.
+
+---
+
 <!-- _class: feedback -->
 
-# Help me sharpen the next version
+# Help me sharpen the next version of this talk
 
 <div class="feedback-questions">
 <div>
 <span>01</span>
-<strong>Is this talk good enough for the AI User Group?</strong>
+<strong>What is missing - or what could I elaborate on?</strong>
 </div>
 <div>
 <span>02</span>
-<strong>What is missing - or what could I elaborate on?</strong>
+<strong>What could be removed?</strong>
 </div>
 </div>
 
@@ -691,6 +920,28 @@ Listen especially for:
 
 Capture the feedback after the session so this lunch & learn becomes the first
 iteration of the user-group talk. (~3–5 min)
+-->
+
+---
+
+<!-- _class: code-camp-promo -->
+
+<div class="code-camp-layout">
+<figure class="code-camp-spotlight"><img src="assets/iowa-code-camp-levi-rosol.png"></figure>
+<div class="code-camp-invite">
+<p class="code-camp-kicker">Iowa Code Camp · November 7, 2026</p>
+<h1>Let’s continue the conversation</h1>
+<p>I’ll be giving this talk again in Ankeny.</p>
+<img class="code-camp-qr" src="assets/iowa-code-camp-qr.png">
+<strong>iowacodecamp.com</strong>
+</div>
+</div>
+
+<!--
+If someone in the room knows a developer, maker, or AI-curious person who would
+enjoy this story, invite them to join you at Iowa Code Camp in November.
+
+The QR code opens the Iowa Code Camp website. (~30 sec)
 -->
 
 ---
@@ -717,3 +968,85 @@ End here after the feedback discussion.
 Thank everyone for their time, for handling the samples, and for helping you
 improve the next version of the talk.
 -->
+
+<script>
+(() => {
+  if (document.querySelector('.image-lightbox')) return;
+
+  const lightboxStyles = document.createElement('style');
+  lightboxStyles.textContent = `
+    .image-lightbox {
+      position: fixed;
+      z-index: 99999;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-sizing: border-box;
+      padding: 44px;
+      background: rgba(0,0,0,.92);
+      cursor: zoom-out;
+    }
+    .image-lightbox.open { display: flex; }
+    .image-lightbox img {
+      width: auto;
+      height: auto;
+      max-width: 94vw;
+      max-height: 90vh;
+      object-fit: contain;
+      cursor: default;
+      filter: drop-shadow(0 18px 44px rgba(0,0,0,.75));
+    }
+    .image-lightbox-close {
+      position: fixed;
+      z-index: 100000;
+      top: 18px;
+      right: 26px;
+      padding: 0;
+      color: #fff;
+      background: transparent;
+      border: 0;
+      font: 300 48px/1 Arial, sans-serif;
+      cursor: pointer;
+    }
+  `;
+  document.head.appendChild(lightboxStyles);
+
+  const lightbox = document.createElement('div');
+  lightbox.className = 'image-lightbox';
+  lightbox.setAttribute('role', 'dialog');
+  lightbox.setAttribute('aria-modal', 'true');
+  lightbox.setAttribute('aria-label', 'Expanded slide image');
+  lightbox.innerHTML = '<button class="image-lightbox-close" type="button" aria-label="Close image">&times;</button><img alt="">';
+  document.body.appendChild(lightbox);
+
+  const expandedImage = lightbox.querySelector('img');
+  const close = () => {
+    lightbox.classList.remove('open');
+    expandedImage.removeAttribute('src');
+  };
+
+  document.addEventListener('click', event => {
+    const image = event.target.closest('section img');
+    if (!image || image.closest('footer') || image.closest('.image-lightbox')) return;
+
+    event.preventDefault();
+    expandedImage.src = image.currentSrc || image.src;
+    expandedImage.alt = image.alt || 'Expanded slide image';
+    lightbox.classList.add('open');
+  });
+
+  lightbox.addEventListener('click', event => {
+    if (event.target === lightbox || event.target.closest('.image-lightbox-close')) close();
+  });
+
+  window.addEventListener('keydown', event => {
+    if (event.key !== 'Escape' || !lightbox.classList.contains('open')) return;
+
+    event.preventDefault();
+    event.stopPropagation();
+    event.stopImmediatePropagation();
+    close();
+  }, true);
+})();
+</script>
