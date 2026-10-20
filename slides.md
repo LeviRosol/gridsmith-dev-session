@@ -58,6 +58,23 @@ This is a small, recursive example of the talk's central idea. The AI did not
 decide that this presentation should exist or what your story meant. It lowered
 the friction between your intent and a working artifact. (~1 min)
 -->
+---
+
+# First, I want to know more about you!
+
+---
+
+# Who here has played D&D or other TTRPGs?
+
+---
+
+# Who here has or has access to a 3D printer?
+
+## Do I need to explain how a 3D printer works?
+
+---
+
+# Who here has mixed the two?
 
 ---
 
@@ -65,7 +82,7 @@ the friction between your intent and a working artifact. (~1 min)
 
 # I have always been a builder
 
-<p class="about-intro">Most of you know me as the CEO of WWC and a software nerd, however...</p>
+<p class="about-intro">Most of you know me as the CEO of WWC and general software nerd. However...</p>
 
 <div class="builder-collage">
 <figure class="builder-wide"><img src="assets/builder-house.jpg"></figure>
@@ -162,8 +179,6 @@ The samples make the problem tangible before you introduce your answer. (~2 min)
 
 # One day I was printing Gridfinity grids for my silverware drawer...
 
-<p class="gridfinity-lead">What if the grid did the organizing, and the terrain simply dropped into it?</p>
-
 <div class="gridfinity-sequence">
 <figure><span>01</span><img src="assets/gridfinity-evolution-01.jpg"></figure>
 <figure><span>02</span><img src="assets/gridfinity-evolution-02.jpg"></figure>
@@ -200,7 +215,9 @@ tiles." (~2 min)
 
 <!-- _class: gridfinity-inspiration -->
 
-# Success!!
+# And I had some terrain tiles laying on my desk
+
+## If it fits, it sits.
 
 <div class="gridfinity-sequence">
 <figure><span>01</span><img src="assets/old_1.jpg"></figure>
@@ -234,7 +251,7 @@ tiles." (~2 min)
 ---
 
 
-# The tiles made you pay four times
+# Old tiles didn't seem ideal
 
 <div class="frictions">
 <div><strong>Too much plastic and waiting</strong><span>Excessive thickness consumed filament and added print time across every tile.</span></div>
@@ -333,7 +350,7 @@ exploration, but you still chose the direction and owned every result. (~1.5 min
 
 <!-- _class: initial-requirements -->
 
-# Before CAD, I had rules
+# First, I gathered requirements
 
 <p class="requirements-lead">If I was going to build my own system, it had to...</p>
 
@@ -367,9 +384,9 @@ gave every physical prototype a pass-or-fail test. (~2 min)
 
 <!-- _class: cad-first-step -->
 
-# The first step was reverse engineering
+# Then I reverse engineered
 
-<p class="cad-origin">I gave ChatGPT an STL from a tile I had already printed hundreds of times.</p>
+<p class="cad-origin">I gave ChatGPT an STL from a tile set I had already printed hundreds of times.</p>
 
 <div class="cad-origin-flow">
 <div><span>01</span><strong>Start with the STL</strong><small>A familiar object, but no editable design behind it.</small></div>
@@ -524,6 +541,8 @@ assumption it disproved and the change it caused. (~1.5 min)
 ---
 
 # Millimeters became product decisions
+
+## A spec was forming
 
 <div class="comparison">
 <div><span>0.1 mm</span><p>Too tight</p></div>
@@ -838,21 +857,39 @@ enough to participate in all of them and keep moving. (~1 min)
 
 ---
 
-# What’s next on the workbench?
+# The AI story pauses here. The iteration didn’t.
 
-<div class="roadmap">
-<p>More environments</p><p>Print Planner</p>
-<p>Better production workflows</p><p>More automation</p>
+<div class="product-evolution-grid">
+<figure><img src="assets/2_tone_tile.jpg"></figure>
+<figure><img src="assets/printer_2.jpg"></figure>
+<figure><img src="assets/final.jpg"></figure>
+<figure><img src="assets/store.jpg"></figure>
+<figure><img src="assets/case_5.jpg"></figure>
 </div>
 
-
-<!-- IMAGE: Replace the placeholder above with:
-![w:1120](assets/future-teaser.jpg)
+<!--
+Move through this quickly. The point is not another deep product section.
+The physical work kept evolving: two-color pieces, more capable printers,
+repeatable batches, and eventually putting the product in front of people.
+(~30–45 sec)
 -->
 
+---
+
+# Even the case became a prototype
+
+<div class="case-evolution-grid">
+<figure><img src="assets/case_1.jpg"><span>01</span></figure>
+<figure><img src="assets/case_2.jpg"><span>02</span></figure>
+<figure><img src="assets/case_3.jpg"><span>03</span></figure>
+<figure><img src="assets/case_4.jpg"><span>04</span></figure>
+<figure><img src="assets/case_6.jpg"><span>05</span></figure>
+</div>
+
 <!--
-Only mention work you genuinely expect to pursue. Explain Print Planner in one
-sentence and save a demo for Q&A. (~1 min)
+No AI lesson here, just the same habit carrying forward: build it, handle it,
+notice what is wrong, and make the next version. Let the sequence tell the
+story rather than explaining every change. (~30–45 sec)
 -->
 
 ---
@@ -885,6 +922,25 @@ Invite questions. (~1 min)
 # Gridsmith is currently living the fate of many of my hobbies...
 
 ## I do have a desire to pick it back up, but there are only so many days in the week.
+
+---
+
+# What’s next on the workbench?
+
+<div class="roadmap">
+<p>More environments</p><p>Print Planner</p>
+<p>Better production workflows</p><p>More automation</p>
+</div>
+
+
+<!-- IMAGE: Replace the placeholder above with:
+![w:1120](assets/future-teaser.jpg)
+-->
+
+<!--
+Only mention work you genuinely expect to pursue. Explain Print Planner in one
+sentence and save a demo for Q&A. (~1 min)
+-->
 
 ---
 
