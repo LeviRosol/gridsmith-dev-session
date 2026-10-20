@@ -28,6 +28,18 @@ section {
   border-top: 2px solid rgba(234,179,8,.22);
 }
 
+section::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  right: 28px;
+  width: 150px;
+  height: 28px;
+  z-index: 20;
+  background: url("assets/wwc-logo-white-orange.svg") center / contain no-repeat;
+  pointer-events: none;
+}
+
 h1 {
   margin: 0 0 30px;
   color: #fff;
