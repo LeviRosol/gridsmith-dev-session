@@ -4,20 +4,16 @@ theme: gridsmith
 paginate: true
 size: 16:9
 transition: fade
-footer: '![w:28 h:28 GridSmith icon](assets/icon.png) GridSmith · Building a Physical Product in the Age of AI'
+footer: 'Building a Physical Product in the Age of AI'
 ---
 
 <!-- _class: title -->
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![w:112](assets/icon.png)
+# Building a physical product in the age of AI
 
-# GridSmith
-
-## Building a physical product in the age of AI
-
-**A conversation about ideas, iterations, and making real things**
+## A conversation about ideas, iterations, and making real things
 
 <!--
 Open with the finished product in your hands.
@@ -62,23 +58,24 @@ the friction between your intent and a working artifact. (~1 min)
 
 <!-- _class: centered-image-slide -->
 
-<figure><img src="assets/shrek.gif"></figure>
+<figure><img style="height:600px;" src="assets/shrek.gif"></figure>
 
 <!--
 
 This talk has a number of layers of nerd.
 
+* AI
 * D&D
 * 3D printing
+* Classic cars
 * Product engineering
 * Software engineering
-* AI
 
 -->
 
 ---
 
-# First, I want to know more about you!
+# Before we dig in, I want to know more about you!
 
 ---
 
@@ -96,11 +93,16 @@ This talk has a number of layers of nerd.
 
 ---
 
+# I'm Levi Rosol
+## Founding Partner of WWC
+## Collector of Hobbies
+## Likes to GSD
+
+---
+
 <!-- _class: about-builder -->
 
 # I have always been a builder
-
-<p class="about-intro">Most of you know me as the CEO of WWC and general software nerd. However...</p>
 
 <div class="builder-collage">
 <figure class="builder-wide"><img src="assets/builder-house.jpg"></figure>
@@ -129,9 +131,13 @@ set of tools. (~1.5 min)
 
 ---
 
+# So where does this story begin?
+
+---
+
 <!-- _class: dnd-background -->
 
-# D&D gave me another place to build
+# D&D - It gave me a creative place to build
 
 <div class="dnd-story">
 <div class="dnd-copy">
@@ -163,11 +169,13 @@ deeply about the experience around a D&D table. (~2 min)
 
 ---
 
+# About that time, I acquired a 3D printer
+
+---
+
 <!-- _class: sample-slide -->
 
-# Years ago... I printed hundreds of tiles
-
-<p class="sample-lead">I knew these systems as a user long before I tried to become a designer.</p>
+# And I printed hundreds of terrain tiles
 
 <div class="old-tiles-gallery">
 <figure class="old-tiles-wide"><img src="assets/old-tiles-tavern.jpg"></figure>
@@ -231,9 +239,13 @@ tiles." (~2 min)
 
 ---
 
+# And I had some terrain tiles lying on my desk
+
+---
+
 <!-- _class: gridfinity-inspiration -->
 
-# And I had some terrain tiles laying on my desk
+# So I put them together!
 
 ## If it fits, it sits.
 
@@ -250,7 +262,7 @@ tiles." (~2 min)
 
 <!-- _class: centered-image-slide -->
 
-<figure><img src="assets/but_wait.jpeg"></figure>
+<figure><img style="height:600px;" src="assets/but_wait.jpeg"></figure>
 
 ---
 
@@ -262,14 +274,14 @@ tiles." (~2 min)
 
 # I started to question what I had created.
 
-## I mean... there were issues with the 100s of tiles I had printed
+## I mean... there were issues with the hundreds of tiles I had printed
 
 ## And I wanted new tiles.
 
 ---
 
 
-# Old tiles didn't seem ideal
+# My old tiles had issues
 
 <div class="frictions">
 <div><strong>Too much plastic and waiting</strong><span>Excessive thickness consumed filament and added print time across every tile.</span></div>
@@ -312,7 +324,7 @@ and assembly model of the system. (~2.5 min)
 
 <!-- _class: statement -->
 
-# What if terrain could use less - and do more?
+# What if terrain tiles could use less - and do more?
 
 ## Less filament. Less waiting. More usable floor. More ways to build.
 
@@ -347,7 +359,7 @@ physical system of your own? (~1 min)
 
 # I wanted to use AI on something real
 
-## Not another "build me a..."  prompt
+## Not a "build me a..."  prompt
 
 # I wanted a physical system
 
@@ -366,9 +378,15 @@ exploration, but you still chose the direction and owned every result. (~1.5 min
 
 ---
 
+# Could I Vibe Code a physical thing?
+
+## Let's give it a shot!
+
+---
+
 <!-- _class: initial-requirements -->
 
-# First, I gathered requirements
+# First, I gathered some requirements
 
 <p class="requirements-lead">If I was going to build my own system, it had to...</p>
 
@@ -402,7 +420,7 @@ gave every physical prototype a pass-or-fail test. (~2 min)
 
 <!-- _class: cad-first-step -->
 
-# Then I reverse engineered
+# Then I did some reverse engineering
 
 <p class="cad-origin">I gave ChatGPT an STL from a tile set I had already printed hundreds of times.</p>
 
@@ -435,7 +453,7 @@ that worked. (~2 min)
 
 ---
 
-# OpenSCAD became our shared language
+# OpenSCAD became our shared interface
 
 <div class="columns">
 <div class="placeholder wide">
@@ -472,7 +490,30 @@ human and AI a shared, editable representation of the product. (~2.5 min)
 
 ---
 
-# Version one was… a version
+# The slicer is where design met reality
+
+<div class="columns">
+<div class="placeholder wide">
+  <img src="assets/13.png">
+</div>
+<div class="placeholder wide">
+  <img src="assets/14.png">
+</div>
+</div>
+
+<!-- IMAGES: Replace the two placeholders above with:
+![w:520](assets/orcaslicer.png)
+![w:520](assets/creality-print.png)
+-->
+
+<!--
+Define a slicer in one sentence. Explain how orientation changes strength and
+finish, supports cost time, and small changes compound across a batch. (~1.5 min)
+-->
+
+---
+
+# Version one was…
 
 <div class="columns">
 <div class="placeholder square">
@@ -480,7 +521,7 @@ human and AI a shared, editable representation of the product. (~2.5 min)
 </div>
 <div class="side-copy">
 <p class="huge">Not impressive.</p>
-<p>But it proved the idea could become an object.</p>
+<p>But it proved the idea could become a physical object.</p>
 </div>
 </div>
 
@@ -495,7 +536,7 @@ time, strength, appearance, or all of the above. (~1 min)
 
 ---
 
-# The loop crossed two worlds
+# Then the loop started
 
 <div class="loop">
 <div><span>1</span>Describe</div><b>→</b>
@@ -504,7 +545,7 @@ time, strength, appearance, or all of the above. (~1 min)
 <div><span>4</span>Learn</div>
 </div>
 
-<p class="big-center">Then feed reality back into the next conversation.</p>
+<p class="big-center">Rinse and Repeat.</p>
 
 <!--
 Give one concrete connector or tolerance example. AI proposed geometry, you
@@ -512,8 +553,6 @@ printed it, reality exposed a constraint, and the loop repeated. (~2 min)
 -->
 
 ---
-
-# The prompt was never the product
 
 <div class="columns">
 <div class="placeholder tall">
@@ -579,29 +618,6 @@ layer lines, material behavior, or calibration. (~1.5 min)
 
 ---
 
-# The slicer is where design meets reality
-
-<div class="columns">
-<div class="placeholder wide">
-  <img src="assets/13.png">
-</div>
-<div class="placeholder wide">
-  <img src="assets/14.png">
-</div>
-</div>
-
-<!-- IMAGES: Replace the two placeholders above with:
-![w:520](assets/orcaslicer.png)
-![w:520](assets/creality-print.png)
--->
-
-<!--
-Define a slicer in one sentence. Explain how orientation changes strength and
-finish, supports cost time, and small changes compound across a batch. (~1.5 min)
--->
-
----
-
 <!-- _class: photo -->
 
 # One prototype became a tiny factory
@@ -621,25 +637,11 @@ batching, machine babysitting, packaging, and inventory. (~2 min)
 
 ---
 
-# Software bugs can be patched
-
-<div class="two-lines">
-<p>A bad print wastes <strong>hours.</strong></p>
-<p>A bad batch wastes <strong>a weekend.</strong></p>
-</div>
-
-<!--
-Let the contrast land. Explain how matter encouraged smaller tests, deliberate
-validation, repeatability, and respect for production constraints. (~1 min)
--->
-
----
-
 <!-- _class: statement -->
 
 # At some point, the project needed a name
 
-## Grid + craft + system → **GridSmith**
+## Grid + craft + system →
 
 <!--
 Tell the naming story if there is one. This is the pivot from experiment to
@@ -650,7 +652,7 @@ product: branding, packaging, instructions, and someone else using it. (~1 min)
 
 <!-- _class: photo -->
 
-# Meet GridSmith
+# And that's when GridSmith was born
 
 
 <div class="placeholder hero contain">
@@ -810,43 +812,6 @@ browser is performing real CAD work locally. (~2.5–3 min)
 
 ---
 
-<!-- _class: statement dark -->
-
-# Vibe coding the website
-
-## Let’s open Cursor. - No, let's not.
-
-<!--
-Leave the deck and open the GridSmith project in Cursor.
-
-Show one end-to-end website story:
-- The intent or problem you described
-- How Cursor explored the existing codebase
-- The proposed or generated change
-- The browser result
-- What still required your judgment
-
-Keep the live portion bounded. The goal is to show the collaboration loop, not
-to complete a risky feature in front of the audience. (~3–4 min)
--->
-
----
-
-# The website had its own sharp edges
-
-<div class="edges">
-<p>Product photography</p><p>Image performance</p>
-<p>Explaining the system</p><p>SEO & discovery</p>
-<p>Content automation</p>
-</div>
-
-<!--
-Choose 2–3 strong stories: images without slow pages; explaining a tactile
-system; reusable content; deployment; or reviewing plausible AI output. (~1.5 min)
--->
-
----
-
 # What surprised me most
 
 <div class="lessons">
@@ -937,28 +902,113 @@ Invite questions. (~1 min)
 
 ---
 
-# Gridsmith is currently living the fate of many of my hobbies...
-
-## I do have a desire to pick it back up, but there are only so many days in the week.
+# Remember when I said I was a Collector of Hobbies?
 
 ---
 
-# What’s next on the workbench?
+<!-- _class: centered-image-slide -->
 
-<div class="roadmap">
-<p>More environments</p><p>Print Planner</p>
-<p>Better production workflows</p><p>More automation</p>
-</div>
+<figure><img src="assets/bbc.jpg"></figure>
 
+---
 
-<!-- IMAGE: Replace the placeholder above with:
-![w:1120](assets/future-teaser.jpg)
--->
+<!-- _class: centered-image-slide -->
 
-<!--
-Only mention work you genuinely expect to pursue. Explain Print Planner in one
-sentence and save a demo for Q&A. (~1 min)
--->
+<figure><img src="assets/Screenshot 2026-11-02 at 4.28.34 PM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-02 at 4.28.49 PM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 11.52.02 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 11.52.13 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 11.52.25 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 11.59.07 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 11.59.19 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 3.57.59 PM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 9.15.29 PM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-03 at 11.50.32 PM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-04 at 12.05.17 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-04 at 12.06.34 AM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/Screenshot 2026-11-04 at 1.45.26 PM.png"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/trimmed.jpg"></figure>
+
+---
+
+<!-- _class: centered-image-slide -->
+
+<figure><img src="assets/trimmed.png"></figure>
+
+---
+
+# Summary of the engine project
+
+- Codex allowed me to iterate MUCH faster
+- Far fewer rinse-and-repeat cycles
+- I was even further disconnected from the code
+- I could focus on the product itself
+- I did need to rein in the AI a bit
 
 ---
 
@@ -998,34 +1048,11 @@ iteration of the user-group talk. (~3–5 min)
 
 ---
 
-<!-- _class: code-camp-promo -->
-
-<div class="code-camp-layout">
-<figure class="code-camp-spotlight"><img src="assets/iowa-code-camp-levi-rosol.png"></figure>
-<div class="code-camp-invite">
-<p class="code-camp-kicker">Iowa Code Camp · November 7, 2026</p>
-<h1>Let’s continue the conversation</h1>
-<p>I’ll be giving this talk again in Ankeny.</p>
-<img class="code-camp-qr" src="assets/iowa-code-camp-qr.png">
-<strong>iowacodecamp.com</strong>
-</div>
-</div>
-
-<!--
-If someone in the room knows a developer, maker, or AI-curious person who would
-enjoy this story, invite them to join you at Iowa Code Camp in November.
-
-The QR code opens the Iowa Code Camp website. (~30 sec)
--->
-
----
-
 <!-- _class: thank-you -->
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
 <div class="thank-you-copy">
-<img src="assets/icon.png" alt="GridSmith shield">
 <h1>Thank you</h1>
 <h2>gridsmith.io</h2>
 </div>
