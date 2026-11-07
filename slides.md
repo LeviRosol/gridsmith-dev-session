@@ -41,7 +41,7 @@ software, and a website. (~1 min)
 </div>
 </div>
 
-<p class="deck-tools"><strong>ChatGPT</strong> for collaboration · <strong>Marp</strong> for slides · <strong>VS Code</strong> for the live editing loop</p>
+<p class="deck-tools"><strong>AI</strong> as my Developer Intern · <strong>Marp</strong> for slides · <strong>VS Code</strong> for the live editing loop</p>
 
 <!--
 Briefly reveal how the presentation itself was made:
@@ -79,13 +79,15 @@ This talk has a number of layers of nerd.
 
 ---
 
-# Who here has played D&D or other TTRPGs?
-
----
-
 # Who here has or has access to a 3D printer?
 
 ## Do I need to explain how a 3D printer works?
+
+---
+
+# Who here has played D&D or other TTRPGs?
+
+## Stories, maps, and combat.
 
 ---
 
@@ -274,7 +276,7 @@ tiles." (~2 min)
 
 # I started to question what I had created.
 
-## I mean... there were issues with the hundreds of tiles I had printed
+## There were issues with the hundreds of tiles I had printed
 
 ## And I wanted new tiles.
 
@@ -340,7 +342,8 @@ thin parts, separate walls, print time, and hallway layouts. (~1 min)
 
 # So I asked the dangerous question
 
-<div class="big-quote">"How hard would it be<br>to create my own?"</div>
+<div class="big-quote">"How hard would it be
+<br>to create my own?"</div>
 
 <p class="muted">A reasonable question with a wildly unreasonable answer.</p>
 
@@ -378,7 +381,7 @@ exploration, but you still chose the direction and owned every result. (~1.5 min
 
 ---
 
-# Could I Vibe Code a physical thing?
+# Could I "Vibe Code" a physical thing?
 
 ## Let's give it a shot!
 
@@ -386,7 +389,7 @@ exploration, but you still chose the direction and owned every result. (~1.5 min
 
 <!-- _class: initial-requirements -->
 
-# First, I gathered some requirements
+# First, I gathered requirements
 
 <p class="requirements-lead">If I was going to build my own system, it had to...</p>
 
@@ -486,29 +489,6 @@ Then explain why it became an effective human–machine interface:
 
 The compelling point is not simply that AI wrote OpenSCAD. OpenSCAD gave the
 human and AI a shared, editable representation of the product. (~2.5 min)
--->
-
----
-
-# The slicer is where design met reality
-
-<div class="columns">
-<div class="placeholder wide">
-  <img src="assets/13.png">
-</div>
-<div class="placeholder wide">
-  <img src="assets/14.png">
-</div>
-</div>
-
-<!-- IMAGES: Replace the two placeholders above with:
-![w:520](assets/orcaslicer.png)
-![w:520](assets/creality-print.png)
--->
-
-<!--
-Define a slicer in one sentence. Explain how orientation changes strength and
-finish, supports cost time, and small changes compound across a batch. (~1.5 min)
 -->
 
 ---
@@ -614,6 +594,29 @@ assumption it disproved and the change it caused. (~1.5 min)
 <!--
 Replace these numbers with a real example. Discuss tolerances, elephant's foot,
 layer lines, material behavior, or calibration. (~1.5 min)
+-->
+
+---
+
+# The slicer is where design met reality
+
+<div class="columns">
+<div class="placeholder wide">
+  <img src="assets/13.png">
+</div>
+<div class="placeholder wide">
+  <img src="assets/14.png">
+</div>
+</div>
+
+<!-- IMAGES: Replace the two placeholders above with:
+![w:520](assets/orcaslicer.png)
+![w:520](assets/creality-print.png)
+-->
+
+<!--
+Define a slicer in one sentence. Explain how orientation changes strength and
+finish, supports cost time, and small changes compound across a batch. (~1.5 min)
 -->
 
 ---
