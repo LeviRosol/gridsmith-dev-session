@@ -676,6 +676,25 @@ section.full-bleed-image-slide > figure img {
   font-size: 35px;
   line-height: 1.22;
 }
+.feedback-questions > .feedback-qr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 22px 30px 20px;
+}
+.feedback-qr img {
+  width: 230px;
+  height: 230px;
+  object-fit: contain;
+  border: 10px solid #fff;
+  background: #fff;
+}
+.feedback-qr strong {
+  margin-top: 14px;
+  font-size: 24px;
+  text-align: center;
+}
 .thank-you {
   display: block;
   position: relative;

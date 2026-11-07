@@ -1024,9 +1024,9 @@ Invite questions. (~1 min)
 <span>01</span>
 <strong>What is missing - or what could I elaborate on?</strong>
 </div>
-<div>
-<span>02</span>
-<strong>What could be removed?</strong>
+<div class="feedback-qr">
+<img src="assets/session-feedback-qr.png" alt="QR code for Iowa Code Camp session feedback">
+<strong>Session feedback</strong>
 </div>
 </div>
 
@@ -1057,6 +1057,7 @@ iteration of the user-group talk. (~3–5 min)
 
 <div class="thank-you-copy">
 <h1>Thank you</h1>
+<h2>gowwc.com</h2>
 <h2>gridsmith.io</h2>
 </div>
 
